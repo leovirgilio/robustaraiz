@@ -9,7 +9,9 @@
 .comingsoonOne {
   background-image: url(../../../app-assets/images/backgrounds/bg-robusta-raiz-2.jpg);
   background-repeat: no-repeat;
-  background-size: cover; }
+  background-size: cover;
+  background-position: center center;
+ }
 
 .getting-started {
   font-size: 2.4rem;
